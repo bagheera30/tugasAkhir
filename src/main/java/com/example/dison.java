@@ -7,4 +7,4 @@ public class dison {
     public double calculateTotalPrice(double price, double discount) {
         return price - discount;
     }
-}
+};
